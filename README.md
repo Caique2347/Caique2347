@@ -1,3 +1,8 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Meu+nome+é+Caique;Tenho+18+anos+!!;Sou+de+São+Paulo;Estudante+de+Desenvolvimento+Web+Full+Stack;Fique+à+vontade+para+conhecer+meu+perfil)](https://git.io/typing-svg)
+
+
+
 ## 👨🏾‍💻 Caique2347
 
 **`Desenvolvedor web full stack `**
