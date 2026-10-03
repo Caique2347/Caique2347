@@ -1,16 +1,72 @@
-## Hi there 👋
+## 👨🏾‍💻 Caique2347
 
-<!--
-**Caique2347/Caique2347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor web full stack `**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo **Caique Vinicius**, tenho 18 anos e sou de São Paulo. Estou no último ano do ensino médio e atualmente curso **Desenvolvimento Web Full Stack pelo PROPROFISSÃO**, com foco em Java. Tenho interesse pela área de **Dados e Tecnologia** e busco aprimorar constantemente meus conhecimentos por meio de estudos e projetos práticos. Compartilho minha evolução, projetos e experiências no **GitHub**.
+
+<p align="left">
+  <a href="https://github.com/Caique2347">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/GitHub-Caique2347-181717?logo=github&logoColor=white&style=for-the-badge"
+      alt="GitHub"
+    />
+  </a><a href="https://www.linkedin.com/in/caique-vinicius-5150b643b/">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Caique%20Vinicius-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img 
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img 
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img 
+    align="left"
+    alt="React"
+    title="React"
+    width="30px"
+    style="padding-right: 10px;"   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+<img 
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img 
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
